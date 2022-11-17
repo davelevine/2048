@@ -19,7 +19,7 @@ const App: React.FC = () => {
         } as any
       }
     >
-      <GithubCorner href="https://github.com/mat-sz/2048" />
+      <GithubCorner href="https://github.com/davelevine/2048" />
       <div className="page">
         <Header />
         <Board />
